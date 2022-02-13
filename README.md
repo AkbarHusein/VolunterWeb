@@ -8,4 +8,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 
-* M. Akbar Husein Siregar, [Personal Profile](akbarhusein.github.io).
+* M. Akbar Husein Siregar, [Personal Profile](https://akbarhusein.github.io/).
